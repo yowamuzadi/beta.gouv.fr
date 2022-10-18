@@ -6,9 +6,9 @@ sponsors:
 incubator: fab-geocommuns
 contact: camille.salou@ign.fr
 phases:
-  - name: investigation
-    start: 2022-06-24
-    end: 2022-09-30
+  - name: contruction
+    start: 2022-10-17
+    end: 2023-11-30
 ---
 ## Contexte
 
