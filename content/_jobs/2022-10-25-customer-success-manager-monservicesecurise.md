@@ -56,7 +56,7 @@ L’objectif de l’équipe MonServiceSécurisé, fin février 2023 :
 
 ## Votre profil nous intéresse si :
 
-* Vous avez au moins 3 années d’expérience professionnelle en tant que Customer Success Manager.
+* Vous justifiez déjà d'une expérience professionnelle en tant que CSM ou équivalent
 * Vous êtes profondément orienté/e utilisateur/ice.
 * Vous avez une forte capacité d’adaptation et d’écoute des utilisateurs face à leurs difficultés et la capacité de les accompagner dans la résolution de leurs problèmes.
 * Vous avez une vraie appétence produit et capitalisez sur les retours pour aider l’équipe à l’améliorer.
