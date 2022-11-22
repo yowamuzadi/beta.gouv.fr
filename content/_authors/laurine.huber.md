@@ -7,8 +7,8 @@ github: laurinehu
 missions:
   - start: 2022-08-01
     end: 2023-08-01
-    status: independent
-    employer: Octo
+    status: agent GIP
+    employer: GIP
 badges:
   - segur
 ---
