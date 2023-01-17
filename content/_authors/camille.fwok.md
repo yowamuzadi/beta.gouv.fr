@@ -10,4 +10,5 @@ missions:
     employer: Octo
 startups:
   - aidantsconnect
+  - France-Chaleur-Urbaine
 ---
